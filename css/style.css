@@ -14,7 +14,7 @@ a {
 	color: #777;
 }
 
-#my_header {
+#my-header {
 	background-image: url("../images/headerimg.png");
 	background-size: cover;
 }
@@ -30,34 +30,34 @@ a {
 	color: rgba(255,255,255,0.8);
 }
 
-.my_padding_top {
+.my-padding-top {
 	padding-top:5em;
 }
 
-.my_padding_top_sm {
+.my-padding-top-sm {
 	padding-top: 2em;
 }
 
-.my_padding_bottom_sm {
+.my-padding-bottom-sm {
 	padding-bottom: 1em;
 }
 
-.my_color {
-	color: #565a5c;
+.my-color {
+	color: #ff585b;
 }
 
-#hero_title {
+#hero-title {
 	color: rgba(255,255,255,0.9);
 	padding-top: 3em;
 }
 
-#hero_title_bottom {
+#hero-title-bottom {
 	color: rgba(0,0,0,0.9);
 	padding-top: 3em;
 	text-align: right;
 }
 
-#hero_p { 
+#hero-p { 
 	color: rgba(255,255,255,0.7);
 	font-size: 1.0em;
 	text-align: center;
