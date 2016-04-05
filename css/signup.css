@@ -12,3 +12,16 @@
 	position: relative; 
 	top:-10px;
 }
+
+.my-title {
+	color: #ff585b;
+	font-size: 1.2em;
+}
+
+.form-padding-top {
+	padding-top:30px;
+}
+
+.form-margin-bottom {
+	margin-bottom: 25px;
+}
